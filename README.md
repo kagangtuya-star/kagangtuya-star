@@ -1,4 +1,5 @@
-### Hi there 👋
+![SilverDragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagangtuya-star&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kagangtuya-star&show_icons=true&theme=tokyonight)
 
 <!--
 **kagangtuya-star/kagangtuya-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
